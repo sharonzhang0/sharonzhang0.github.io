@@ -9,28 +9,25 @@ links:
 output:
   postcards::trestles
 ---
- 
+
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Sharon is a Senior Product Manager at [CVS Health] (https://www.cvshealth.com/) and also attends [Johns Hopkins Bloomberg School of Public Health] (https://publichealth.jhu.edu/) as a part-time MPH candidate concentrating in Epidemiology and Biostatistics. 
 
+Previously, he was  She has over 10 years of experience in data science, product management, and research across various industries including healthcare, finance, and entertainment. Sharon is passionate about leveraging data to drive impactful decisions and improve public health outcomes. 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Johns Hopkins Bloomberg School of Public Health** \| Baltimore, MD
 
-Ph.D. in Computer Science | September 2009 - May 2014
+MPH in Epidemiology & Biostatistics \| June 2024 - August 2026
 
-**The University of California, Berkeley** | Berkeley, CA
+**The University of Chicago** \| Chicago, IL
 
-B.S. in Computer Science | September 2005 - May 2009
+BA in Economics \| October 2012 - June 2016
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**
+ Brain** \| Principal Investigator \| January 2018 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Netflix** \| Research Scientist \| June 2014 - December 2017

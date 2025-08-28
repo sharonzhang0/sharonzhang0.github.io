@@ -2,13 +2,20 @@
 title: "Sharon Zhang"
 image: "sharon.jpg"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
     url: "https://linkedin.com/sharonzhang0"
-  - label: GitHub
+  - label:  '`r fontawesome::fa("github", fill = "#080808")` GitHub'
     url: "https://github.com/sharonzhang0"
+  - label: 'r fontawesome::fa("google scholar", fill = ) Google Scholar
+    url: "https://scholar.google.com/citations?user=gJ9Q6aMAAAAJ&hl=en"
+
+  - label: Email
 output:
   postcards::trestles
 ---
+```{r, eval=FALSE, include=FALSE}
+rmarkdown::render("index.Rmd")
+```
 
 ## Bio
 
@@ -36,4 +43,4 @@ Sharon is passionate about leveraging data to drive impactful decisions and impr
 
 -   Crisis counseling: Conducted exploratory analysis to evaluate the real-world performance and impact of deploying an LLM-based copilot at scale in a WhatsApp-based crisis counseling service in India.
 
--   [ICER evaluation](https://f.hubspotusercontent30.net/hubfs/4076230/ResearchX_%20Enhanced%20Cost-Effectiveness%20Analysis%20using%20EHR%20Data%20for%20Real-World%20Value%20(1).pdf): Supported study design and analysis for a replication of an Institute of Clinical and Economic Review (ICER) cost-effectiveness analysis of non-small cell lung cancer (NSCLC) therapies using electronic health record (EHR) data from Flatiron Health.
+-   [ICER evaluation](https://www.valueinhealthjournal.com/article/S1098-3015(21)00350-8/fulltext): Supported study design and analysis for a replication of an Institute of Clinical and Economic Review (ICER) cost-effectiveness analysis of non-small cell lung cancer (NSCLC) therapies using electronic health record (EHR) data from Flatiron Health.

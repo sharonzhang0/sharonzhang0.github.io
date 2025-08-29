@@ -13,7 +13,6 @@ links:
 output:
   postcards::trestles
 ---
-
 ```{r, eval=FALSE, include=FALSE}
 rmarkdown::render("index.Rmd")
 ```

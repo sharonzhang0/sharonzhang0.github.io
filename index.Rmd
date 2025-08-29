@@ -13,11 +13,12 @@ links:
 output:
   postcards::trestles
 ---
+
 ```{r, eval=FALSE, include=FALSE}
 rmarkdown::render("index.Rmd")
 ```
 
-## <span style="color:  #030303;"> `r fontawesome::fa("address-card", fill = "#030303", prefer_type="solid")` Bio </span> 
+## [ `r fontawesome::fa("address-card", fill = "#030303", prefer_type="solid")` Bio ]{style="color:  #030303;"}
 
 Sharon attends [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/) as a part-time MPH student concentrating in Epidemiology and Biostatistics. She also works as a Senior Product Manager at [CVS Health](https://www.cvshealth.com/), where her role focuses on optimizing use of external claims data across lines of business (Aetna, Retail, Specialty, Caremark, Healthspire).
 
@@ -25,8 +26,7 @@ Previously, she worked as a Senior Solutions Manager at [Flatiron Health](https:
 
 Sharon is passionate about leveraging data and technology to improve health outcomes at scale, with particular interest in the areas of oncology and mental health.
 
-
-## <span style="color:  #030303;"> `r fontawesome::fa("laptop-code", fill = "#030303", prefer_type="solid")` Projects </span> 
+## [ `r fontawesome::fa("laptop-code", fill = "#030303", prefer_type="solid")` Projects ]{style="color:  #030303;"}
 
 -   [CHAI](https://www.clintonhealthaccess.org/our-programs/cancer/): Cleaned and analyzed patient chart-abstracted data to evaluate programmatic impact of the Nigeria Cancer Access Partnership ([NCAP](https://www.alliedagainstcancer.org/access-partnership)) on patient access to quality, affordable drugs.
 
@@ -34,14 +34,16 @@ Sharon is passionate about leveraging data and technology to improve health outc
 
 -   [ICER evaluation](https://www.valueinhealthjournal.com/article/S1098-3015(21)00350-8/fulltext): Replicated an Institute for Clinical and Economic Review (ICER) cost-effectiveness analysis of non-small cell lung cancer (NSCLC) therapies using electronic health record data from Flatiron Health.
 
-## <span style="color:  #030303;"> `r fontawesome::fa("puzzle-piece", fill = "#030303", prefer_type="solid")` Interests & Hobbies </span> 
+## [ `r fontawesome::fa("puzzle-piece", fill = "#030303", prefer_type="solid")` Interests & Hobbies ]{style="color:  #030303;"}
 
 -   Board Games
 
 -   Hiking
 
--   Tennis 
+-   Tennis
 
 -   Puzzles
 
 -   Corgis
+
+[ Last Updated: 2025-08-28 ]{style="color: #7F7F7F; font-size: 14px"}

@@ -10,6 +10,7 @@ links:
     url: "https://scholar.google.com/citations?user=gJ9Q6aMAAAAJ&hl=en"
   - label: '`r fontawesome::fa("at", fill = "#36648B")` Email'
     url: "mailto:szhan262@jh.edu"
+favicon: "corgi_icon.png" 
 output:
   postcards::trestles
 ---
